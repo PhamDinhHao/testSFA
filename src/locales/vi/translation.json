@@ -1,0 +1,29 @@
+{
+    "hello": "Xin chào",
+    "welcome": "Chào mừng",
+    "titleBlock": {
+        "mainTitle": "TIÊU ĐỀ KHỐI 1",
+        "subtitle": "Phụ đề Khối 1",
+        "card1": {
+            "imageAlt": "Trái cây họ cam quýt",
+            "title": "Tiêu đề thẻ",
+            "subtitle": "Phụ đề thẻ",
+            "description": "Mỗi con đường dẫn bạn đến những cảnh quan tuyệt đẹp, mỗi khoảnh khắc...",
+            "button": "Gói 1"
+        },
+        "card2": {
+            "imageAlt": "Sinh tố",
+            "title": "Tiêu đề thẻ",
+            "subtitle": "Phụ đề thẻ",
+            "description": "Tại BASIC, câu cá là sự kết hợp giữa đam mê và sự tôn trọng. Hãy tưởng tượng những hồ yên bình...",
+            "button": "Gói 2"
+        },
+        "card3": {
+            "imageAlt": "Chanh",
+            "title": "Tiêu đề thẻ",
+            "subtitle": "Phụ đề thẻ",
+            "description": "BASIC hướng dẫn bạn qua những vùng đất nguyên bản, nơi săn bắn là một cuộc tìm kiếm...",
+            "button": "Gói 3"
+        }
+    }
+}

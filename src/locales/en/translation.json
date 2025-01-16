@@ -1,0 +1,29 @@
+{
+    "hello": "Hello",
+    "welcome": "Welcome",
+    "titleBlock": {
+        "mainTitle": "TITLE BLOCK 1",
+        "subtitle": "Subtitle Block 1",
+        "card1": {
+            "imageAlt": "Citrus fruits",
+            "title": "Case Title",
+            "subtitle": "Case subtitle",
+            "description": "Each path leads you to breathtaking panoramas, every moment...",
+            "button": "Package 1"
+        },
+        "card2": {
+            "imageAlt": "Smoothie",
+            "title": "Case Title",
+            "subtitle": "Case subtitle",
+            "description": "At BASIC, fishing is an alliance between passion and respect. Imagine peaceful lakes...",
+            "button": "Package 2"
+        },
+        "card3": {
+            "imageAlt": "Lemons",
+            "title": "Case Title",
+            "subtitle": "Case subtitle",
+            "description": "BASIC guides you through authentic territories, where hunting is a quest...",
+            "button": "Package 3"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "hello": "Bonjour",
+    "welcome": "Bienvenue",
+    "titleBlock": {
+        "mainTitle": "TITRE BLOC 1",
+        "subtitle": "Sous-titre Bloc 1",
+        "card1": {
+            "imageAlt": "Agrumes",
+            "title": "Titre du cas",
+            "subtitle": "Sous-titre du cas",
+            "description": "Chaque sentier vous conduit à des panoramas époustouflants, chaque instant...",
+            "button": "Forfait 1"
+        },
+        "card2": {
+            "imageAlt": "Smoothie",
+            "title": "Titre du cas",
+            "subtitle": "Sous-titre du cas",
+            "description": "Chez BASIC, la pêche est une alliance entre passion et respect. Imaginez des lacs paisibles...",
+            "button": "Forfait 2"
+        },
+        "card3": {
+            "imageAlt": "Citrons",
+            "title": "Titre du cas",
+            "subtitle": "Sous-titre du cas",
+            "description": "BASIC vous guide à travers des territoires authentiques, où la chasse est une quête...",
+            "button": "Forfait 3"
+        }
+    }
+}
