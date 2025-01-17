@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+/* src/App.css */
+/* ... existing styles ... */
+
+/* @media (min-width: 1920px) {
+  table {
+    width: 1194px;
+    height: 834px;
+  }
+}
+
+@media (max-width: 768px) {
+  table {
+    width: 394px;
+  }
+} */
+
+/* ... existing styles ... */

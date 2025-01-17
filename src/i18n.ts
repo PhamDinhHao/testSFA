@@ -1,7 +1,6 @@
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
 import enTranslation from './locales/en/translation.json';
-import viTranslation from './locales/vi/translation.json';
 import frTranslation from './locales/fr/translation.json';
 
 i18n
@@ -11,14 +10,11 @@ i18n
         en: {
             translation: enTranslation
           },
-          vi: {
-            translation: viTranslation
-          },
           fr: {
             translation: frTranslation
           }
     },
-    lng: "vi",
+    lng: "fr",
     fallbackLng: "en",
     interpolation: {
       escapeValue: false

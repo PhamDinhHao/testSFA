@@ -31,11 +31,12 @@ function App() {
       <Header />
       <Background />
       <AnimatedSection>
-        <TitleBlock />
-      </AnimatedSection>
-      <AnimatedSection>
         <SliderTitle />
       </AnimatedSection>
+      <AnimatedSection>
+        <TitleBlock />
+      </AnimatedSection>
+      
     </>
   );
 }

@@ -1,29 +1,61 @@
 {
     "hello": "Hello",
     "welcome": "Welcome",
+    "head_menu": {
+            "book_class": "Book a Class",
+            "our_chefs": "Our Chefs",
+            "our_packages": "Our Packages",
+            "blog": "Blog",
+            "contact_us": "Contact Us"
+        },
     "titleBlock": {
-        "mainTitle": "TITLE BLOCK 1",
-        "subtitle": "Subtitle Block 1",
-        "card1": {
-            "imageAlt": "Citrus fruits",
-            "title": "Case Title",
-            "subtitle": "Case subtitle",
-            "description": "Each path leads you to breathtaking panoramas, every moment...",
-            "button": "Package 1"
+        "title": "Discover Culinary Art with CookMaster",
+      "subtitle": "Explore unique experiences to learn, taste, and share",
+      "cases": [
+        {
+          "category": "Online Classes",
+          "tagline": "Learn from your own kitchen",
+          "description": "Join our interactive online classes to master culinary skills with our chefs.",
+          "cta": "See our online classes"
         },
-        "card2": {
-            "imageAlt": "Smoothie",
-            "title": "Case Title",
-            "subtitle": "Case subtitle",
-            "description": "At BASIC, fishing is an alliance between passion and respect. Imagine peaceful lakes...",
-            "button": "Package 2"
+        {
+          "category": "Ethical Hunting",
+          "tagline": "Get hands-on experience",
+          "description": "Participate in our in-person workshops to perfect your cooking techniques.",
+          "cta": "Discover our workshops"
         },
-        "card3": {
-            "imageAlt": "Lemons",
-            "title": "Case Title",
-            "subtitle": "Case subtitle",
-            "description": "BASIC guides you through authentic territories, where hunting is a quest...",
-            "button": "Package 3"
+        {
+          "category": "Gastronomic Experiences",
+          "tagline": "A unique culinary journey",
+          "description": "Enjoy exceptional moments around gastronomy with our expert chefs.",
+          "cta": "Book an experience"
         }
+      ]
+    },
+    "bloc_3": {
+      "title": "Explore More with CookMaster",
+      "more_info": "Learn more...",
+      "cases": [
+        {
+          "category": "Cooking Techniques",
+          "tagline": "Master essential skills",
+          "description": "Learn fundamental culinary techniques to succeed with every dish."
+        },
+        {
+          "category": "World Cuisine",
+          "tagline": "Discover new flavors",
+          "description": "Explore international recipes and enrich your culinary repertoire."
+        },
+        {
+          "category": "Pastry",
+          "tagline": "Create exquisite desserts",
+          "description": "Learn to craft pastries worthy of top chefs."
+        },
+        {
+          "category": "Appetizers and Desserts",
+          "tagline": "Create Exquisite Appetizers and Desserts",
+          "description": "Learn to craft appetizers and desserts worthy of top chefs."
+        }
+      ]
     }
 }

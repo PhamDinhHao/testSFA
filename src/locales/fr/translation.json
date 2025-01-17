@@ -1,29 +1,61 @@
 {
     "hello": "Bonjour",
     "welcome": "Bienvenue",
+    "head_menu": {
+      "book_class": "Réserver un Cours",
+      "our_chefs": "Nos Chefs",
+      "our_packages": "Nos Formules",
+      "blog": "Blog",
+      "contact_us": "Contactez-nous"
+    },
     "titleBlock": {
-        "mainTitle": "TITRE BLOC 1",
-        "subtitle": "Sous-titre Bloc 1",
-        "card1": {
-            "imageAlt": "Agrumes",
-            "title": "Titre du cas",
-            "subtitle": "Sous-titre du cas",
-            "description": "Chaque sentier vous conduit à des panoramas époustouflants, chaque instant...",
-            "button": "Forfait 1"
+        "title": "Découvrez l'Art Culinaire avec CookMaster",
+      "subtitle": "Explorez des expériences uniques pour apprendre, déguster et partager",
+      "cases": [
+        {
+          "category": "Cours en Ligne",
+          "tagline": "Apprenez depuis chez vous",
+          "description": "Rejoignez nos cours interactifs en ligne pour maîtriser l'art culinaire avec nos chefs.",
+          "cta": "Voir nos cours en ligne"
         },
-        "card2": {
-            "imageAlt": "Smoothie",
-            "title": "Titre du cas",
-            "subtitle": "Sous-titre du cas",
-            "description": "Chez BASIC, la pêche est une alliance entre passion et respect. Imaginez des lacs paisibles...",
-            "button": "Forfait 2"
+        {
+          "category": "Ateliers Pratiques",
+          "tagline": "Passez à l'action",
+          "description": "Participez à nos ateliers en présentiel pour perfectionner vos techniques culinaires.",
+          "cta": "Découvrez nos ateliers"
         },
-        "card3": {
-            "imageAlt": "Citrons",
-            "title": "Titre du cas",
-            "subtitle": "Sous-titre du cas",
-            "description": "BASIC vous guide à travers des territoires authentiques, où la chasse est une quête...",
-            "button": "Forfait 3"
+        {
+          "category": "Expériences Gastronomiques",
+          "tagline": "Un voyage culinaire unique",
+          "description": "Vivez des moments d'exception autour de la gastronomie avec nos experts.",
+          "cta": "Réservez une expérience"
         }
+      ]
+    },
+    "bloc_3": {
+      "title": "Explorez Davantage avec CookMaster",
+      "more_info": "En savoir plus...",
+      "cases": [
+        {
+          "category": "Techniques de Cuisine",
+          "tagline": "Apprenez les bases essentielles",
+          "description": "Maîtrisez les techniques culinaires fondamentales pour réussir tous vos plats."
+        },
+        {
+          "category": "Cuisine du Monde",
+          "tagline": "Découvrez de nouvelles saveurs",
+          "description": "Explorez des recettes internationales et enrichissez votre répertoire culinaire."
+        },
+        {
+          "category": "Pâtisserie",
+          "tagline": "Créez des desserts exquis",
+          "description": "Apprenez à réaliser des pâtisseries dignes des plus grands chefs."
+        },
+        {
+          "category": "Entrée et entrmet",
+          "tagline": "Créez des Entrées et entrmet exquis",
+          "description": "Apprenez à réaliser des entrées et entrmets dignes des plus grands chefs."
+        }
+      ]
     }
 }
